@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Optimo-BAC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me by email at jschiller@bumperactive.com
 
 <!---
